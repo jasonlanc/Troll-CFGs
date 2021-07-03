@@ -1,2 +1,2 @@
 # Troll-CFGs
-Troll configs for C-S:GO
+  Troll configs for C-S:O
